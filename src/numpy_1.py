@@ -1,3 +1,4 @@
+# First NumPy Program
 import numpy as np
 
 # Print numpy version
